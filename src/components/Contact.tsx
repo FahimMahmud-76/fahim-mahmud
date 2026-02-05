@@ -24,21 +24,21 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: Github,
-      href: 'https://github.com',
+      href: 'https://github.com/FahimMahmud-76',
       color: 'hover:text-primary',
       description: 'Check out my code',
     },
     {
       name: 'Facebook',
       icon: Facebook,
-      href: 'https://facebook.com',
+      href: 'https://facebook.com/sm.fahimmahmud.31',
       color: 'hover:text-blue-500',
       description: 'Connect with me',
     },
     {
       name: 'Email',
       icon: Mail,
-      href: 'mailto:fahim@example.com',
+      href: 'mailto:rffahim153@gmail.com',
       color: 'hover:text-secondary',
       description: 'Drop me a line',
     },
@@ -96,7 +96,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
-                  <p className="font-medium">fahim@example.com</p>
+                  <p className="font-medium">rffahim153@gmail.com</p>
                 </div>
               </div>
             </div>

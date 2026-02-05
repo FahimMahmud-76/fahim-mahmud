@@ -75,7 +75,7 @@ const Hero = () => {
               className="flex gap-4"
             >
               <a
-                href="https://github.com"
+                href="https://github.com/FahimMahmud-76"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
@@ -83,7 +83,7 @@ const Hero = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://facebook.com"
+                href="https://facebook.com/sm.fahimmahmud.31"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
@@ -91,7 +91,7 @@ const Hero = () => {
                 <Facebook size={20} />
               </a>
               <a
-                href="mailto:fahim@example.com"
+                href="mailto:rffahim153@gmail.com"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
               >
                 <Mail size={20} />
