@@ -31,7 +31,7 @@ const Contact = () => {
     {
       name: 'Facebook',
       icon: Facebook,
-      href: 'https://facebook.com',
+      href: 'https://facebook.com/sm.fahimmahmud.31',
       color: 'hover:text-blue-500',
       description: 'Connect with me',
     },
